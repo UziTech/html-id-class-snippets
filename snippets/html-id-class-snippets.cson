@@ -1,4 +1,4 @@
-".text.html":
+".text.html, .source.js, .source.jsx":
   "Anchor#":
     "prefix": "a#",
     "body": "<a id=\"$1\" href=\"${2:#}\">$3</a>$0"
